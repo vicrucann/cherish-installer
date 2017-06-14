@@ -6,4 +6,9 @@
     <Publisher>Yale Computer Graphics Group</Publisher>
     <StartMenuDir>Cherish</StartMenuDir>
     <TargetDir>@HomeDir@/cherish</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>https://github.com/vicrucann/cherish/releases/download/v0.6.4/cherish.7z</Url>
+        </Repository>
+    </RemoteRepositories>
 </Installer>

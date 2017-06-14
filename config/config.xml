@@ -8,7 +8,7 @@
     <TargetDir>@HomeDir@/cherish</TargetDir>
     <RemoteRepositories>
         <Repository>
-            <Url>https://github.com/vicrucann/cherish/releases/download/v0.6.4/cherish.7z</Url>
+            <Url>https://github.com/vicrucann/cherish-installer/tree/master/cherish</Url>
         </Repository>
     </RemoteRepositories>
 </Installer>

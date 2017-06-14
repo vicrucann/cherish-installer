@@ -6,9 +6,4 @@
     <Publisher>Yale Computer Graphics Group</Publisher>
     <StartMenuDir>Cherish</StartMenuDir>
     <TargetDir>@HomeDir@/cherish</TargetDir>
-    <RemoteRepositories>
-        <Repository>
-            <Url> https://www.dropbox.com/sh/12k29sz9wjcheyr/AAAefW9Ao-UVnglr1B7JG4vNa?dl=0</Url>
-        </Repository>
-    </RemoteRepositories>
 </Installer>

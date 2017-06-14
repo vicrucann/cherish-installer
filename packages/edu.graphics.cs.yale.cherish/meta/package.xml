@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Cherish</DisplayName>
+    <Description>Install Cherish: Sketch- and image-based system for 3D representation and documentation of cultural heritage sites.</Description>
+    <Version>0.6.4</Version>
+    <ReleaseDate>2017-06-12</ReleaseDate>
+    <Licenses>
+        <License name="GNU General Public License v3.0" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>

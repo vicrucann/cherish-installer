@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Cherish</Name>
+    <Version>0.6.4</Version>
+    <Title>Cherish Installer</Title>
+    <Publisher>Yale Computer Graphics Group</Publisher>
+    <StartMenuDir>Cherish</StartMenuDir>
+    <TargetDir>@HomeDir@/cherish</TargetDir>
+</Installer>

@@ -14,8 +14,8 @@ Component.prototype.createOperations = function()
             "workingDirectory=@TargetDir@", "iconPath=%SystemRoot%/system32/SHELL32.dll",
             "iconId=70");
         component.addOperation("CreateShortcut", "@TargetDir@/cherish/cherish.exe", "@StartMenuDir@/Cherish.lnk",
-            "workingDirectory=@TargetDir@", "iconPath=%SystemRoot%/system32/SHELL32.dll", 
-            "iconId=41");
+            "workingDirectory=@TargetDir@", "iconPath=@TargetDir@/cherish/Icons.dll", 
+            "iconId=0");
         component.addOperation("CreateShortcut", "@TargetDir@/maintenancetool.exe", "@StartMenuDir@/MaintenanceTool.lnk",
             "workingDirectory=@TargetDir@", "iconPath=%SystemRoot%/system32/SHELL32.dll", 
             "iconId=162");

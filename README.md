@@ -10,7 +10,7 @@
 First, make sure the `packages` contains the latest archive of the software distribution. Use `archivegen` to create and place the `*.7z` file, e.g.:
 
 ```
-archivegen cherish.7z cherish_directory
+archivegen.exe cheris.7z cherish_directory
 ```
 
 Second, once the *cherish* software is updated and places in the `*.7z` file, use Windows command line (considering the Qt Installer Framework's `\bin` folder is in the `PATH`) and type:

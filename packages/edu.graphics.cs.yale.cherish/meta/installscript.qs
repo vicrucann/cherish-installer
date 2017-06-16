@@ -19,5 +19,13 @@ Component.prototype.createOperations = function()
         component.addOperation("CreateShortcut", "@TargetDir@/maintenancetool.exe", "@StartMenuDir@/MaintenanceTool.lnk",
             "workingDirectory=@TargetDir@", "iconPath=%SystemRoot%/system32/SHELL32.dll", 
             "iconId=162");
+
+        // osgt file association
+        //var iconId = 1;
+        //var cherishPath = "@TargetDir@/cherish/cherish.exe";
+        //var cherishFile = "osgt";
+        //component.addOperation("RegisterFileType", cherishFile, cherishPath,
+        //                       "Cherish file type", "text/plain", cherishPath + "," + iconId,
+        //                       "ProgId=QtProject.QtInstallerFramework." + cherishFile);
     }
 }
